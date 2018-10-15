@@ -45,7 +45,6 @@ USER_AGENT[26]='Opera/9.80 (Android 2.3.3; Linux; Opera Mobi/ADR-1111101157; U; 
 
 
 
-#fucking logic
 echo "Press [CTRL+C] to stop..."
 #for i in $(seq 0 2)
 while :
